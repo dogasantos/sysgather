@@ -11,7 +11,7 @@ sysgather - Linux Gather Information Tool
     </tr>
     <tr>
         <th>Github</th>
-        <td><a href="https://github.com/dogasantos/sysgather">https://github.com/dogasantos/cpgather</a></td>
+        <td><a href="https://github.com/dogasantos/sysgather">https://github.com/dogasantos/sysgather</a></td>
      <tr/>
     <tr>
         <th>Documentation</th>
