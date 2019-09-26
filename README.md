@@ -1,4 +1,4 @@
-cpgather - Linux Gather Information Tool
+sysgather - Linux Gather Information Tool
 
 <table>
     <tr>
@@ -11,11 +11,11 @@ cpgather - Linux Gather Information Tool
     </tr>
     <tr>
         <th>Github</th>
-        <td><a href="https://github.com/dogasantos/cpgather">https://github.com/dogasantos/cpgather</a></td>
+        <td><a href="https://github.com/dogasantos/sysgather">https://github.com/dogasantos/cpgather</a></td>
      <tr/>
     <tr>
         <th>Documentation</th>
-        <td><a href="#">https://github.com/dogasantos/cpgather/wiki</a></td>
+        <td><a href="#">https://github.com/dogasantos/sysgather/wiki</a></td>
     </tr>
     <tr>
         <th>Code Documentation</th>
@@ -48,7 +48,7 @@ sysgather is an open source tool designed to help pentesters on a post-intrusion
 Gather information during a post-shell phase on a pentest.<br>
 Keep it simple
 
-#### cpgather output 
+#### sysgather output 
 Current supporting Standard grepable and planned xml format, both printed on standar output.
 
 #### Credits
