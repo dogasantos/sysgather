@@ -8,7 +8,7 @@ BINS=sysgather
 
 all:sysgather
 
-cpgather: core-main.c core-environ.c core-misc.c core-network.c core-security.c core-services.c core-user.c core-output.c core-plugins.c core-list.c
+sysgather: core-main.c core-environ.c core-misc.c core-network.c core-security.c core-services.c core-user.c core-output.c core-plugins.c core-list.c
 	$(COMPILE) core-main.c core-environ.c core-misc.c core-network.c core-security.c core-services.c core-user.c core-output.c core-plugins.c core-list.c -o ${BINS}
 
 clean:
