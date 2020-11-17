@@ -23,7 +23,7 @@ sysgather - Linux Gather Information Tool
     </tr>
     <tr>
        <th>Author</th>
-       <td>Douglas Secco dos Santos</td>
+       <td>Douglas S Santos</td>
     </tr>
     <tr>
         <th>Twitter</th>
